@@ -12,4 +12,4 @@ To make the other player (the computer) remove the last file.
 3. The maximum number of files you can remove is one less than half.
 4. If there is only one file of a certain type, you can remove it.
 
-## Good Luck
+### Good Luck!!
